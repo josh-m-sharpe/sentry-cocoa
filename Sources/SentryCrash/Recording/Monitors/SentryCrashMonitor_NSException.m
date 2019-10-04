@@ -24,7 +24,7 @@
 // THE SOFTWARE.
 //
 
-#import "SentryCrash.h"
+#import "../SentryCrash.h"
 #import "SentryCrashMonitor_NSException.h"
 #import "SentryCrashStackCursor_Backtrace.h"
 #include "SentryCrashMonitorContext.h"
